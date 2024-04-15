@@ -1,69 +1,85 @@
-## Your Name
+## Daniela Castilla
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Hello! I am a freelance video editor hoping to pivot into software development. Though I am just starting my journey, I have been having the time of my life acquiring new skills, learning new technologies as I go, and working with knowledgeable and passionate people. I have always been meticulous, focused, and able to improvise, so it has been a very smooth transition into applying my creativity to code. I would love to continue my journey and I am looking to become a Junior Developer soon.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **MakersBnb**            | An Airbnb inspired website made in two weeks which allows users to rent properties,                  as well as list their own and accept or reject requests | Python, Pipenv and Pytest for testing, HTML, CSS, Bootstrap |
+| **Music Library website** | A simple website with database implementation showing a list of artists, albums, and information about both tables | Python, Flask, SQL, Pipenv, Pytest             |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Freelance** (July 2022 - Present)  
+_Video Editor_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Editing videos from footage provided by clients into finished products, primarily for social media
+- Experience interacting directly with clients, listening to their needs, and tailoring my work to them
+- Experience adapting the project scope as needed while delivering it within the agreed-upon deadlines
+- Able to film footage and record sound on-location if the project requires it
+- Experienced with the Adobe Suite, primarily Premiere Pro and After Effects
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
+**De Montfort University** (September 2020 - September 2021)  
+_Assistant Performance and Events Technician_
+
+- Provided assistance in the development of university events, particularly focused on livestreamed and hybrid events
+- Served primarily as a camera operator in live events
+- Filmed and edited dance performance
+- Assisted with rigging lights and testing equipment
+- Managed online video database and scheduled videos for streaming platforms
+
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Soft Skills
+- Teamwork: I am comfortable working in a team, and even taking a leadership role if the situation demands it to deliver a satisfactory product on time. I've developed this skills throughout my life, and it was present during my time at university, as an Assistant Performance and Events Technician, and at Makers, working on group engineering projects.
+- Working alone: I also love working on my own and setting my own goals and plans. This was particularly relevant as a Video Editor, as I largely work solo apart from keeping in touch with the client.
+- Working under pressure: I thrive under pressure and I'm able to focus on a project until it is finished. Because of this, I have never missed a deadline.
+- Learning on the job: Most of the practical skills I've picked up while editing or programming has come from being faced with a challenge and researching and trying new things until I accomplish my goal.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+#### Editing Software
+
+- Adobe Creative Cloud (Premiere Pro, After Effects, Audition, Photoshop, Illustrator, InDesign)
+- DaVinci Resolve
+- Avid Pro Tools
 
 
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+#### Languages
+- English (fluent)
+- Spanish (fluent)
+- Japanese (intermediate)
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (January 2024 - Present)
+- I have picked up programming in a fast-paced and engaging environment focusing on skills such as:
+    - Git version control and Github
+    - TDD, program design, debugging, and pair programming
+    - Using SQL and HTTP to create basic websites with database functionality, and using Docker to deploy them to the web
+    - Using Javascript and React to create full-stack applications with responsive frontend
+    - Creating basic mobile applications with Swift and SwiftUI
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### De Montfort University (September 2018 - July 2022 )
 
-#### Any other qualifications
+- BSc Hons Media Production - First Class (73%)	
+- Developed and delivered products both individually and as a team, which an emphasis on video and audio post-production
+- Worked with student societies and local charities to create social media campaigns and maintain their online presence
+- Excelled in following the process from start to finish - from initial brainstorm to final export 
 
-That in some arguable way make you a better software developer or well-rounded person
+
+
+
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Playing the piano is a discipline that I’ve kept since I was 6 years old
+- I love consuming and analysing media, be it books, films, or tv shows
+- Jiu-jitsu as a form of exercise and self-defence - I served as the Treasurer and Chairperson of the club at uni
+- Bouldering is a brilliant form of exercise that also utilises my critical thinking skills
+- Tabletop games serves as a way to develop my decision-making skills, collaborative storytelling, and teamwork
+
